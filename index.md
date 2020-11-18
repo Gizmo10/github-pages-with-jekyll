@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my fisrt blog
 
-I'm glad you are here. I plan to talk about ...
+It pleases me to ahe you here. The purpose of this was to learn how to deploy code on GitHub
